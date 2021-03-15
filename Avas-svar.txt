@@ -1,8 +1,11 @@
 Vilka filer bör finnas i .gitignore? (Ange 2-4 st)
-
+	SVAR: config, HEAD, index tex
 
 Vad är en applikationsserver och varför behövs den?
-
+	Svar: En server som kör applikationer, den används för att kunna köra avancerade funktioner.
+	Enklare applikation klarar sig utan en applikationsserver.
 
 Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett utvecklingsprojekt?
-
+	Svar: Först och främst skulle jag titta på vilket språk som ska användas, sen på vilket/vilka
+	IDE jag är van vid/bekväm med. Eventuellt hade jag pratat ihop mig med övriga inblandade och kommit 
+	överrens om att använda samma IDE i hela gruppen, men egentligen behövs inte det.
