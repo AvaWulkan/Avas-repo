@@ -1,0 +1,8 @@
+Vilka filer bör finnas i .gitignore? (Ange 2-4 st)
+
+
+Vad är en applikationsserver och varför behövs den?
+
+
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett utvecklingsprojekt?
+
