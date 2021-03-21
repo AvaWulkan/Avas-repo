@@ -1,0 +1,28 @@
+Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?
+
+svar: Filer som bör finnas i gitignore är filer som git skall ignorera/ inte delas på git.
+Vad dem skall innehålla är väldigt variende från projekt till projekt. 
+Men rent generellt så bör filer på gitignore innehålla dessa filer:
+
+1.Operativa systemfiler - tex Thumbs.db eller DS_store
+2.Applikations filer - filer som genereras av code editors, dessa är ej relevanta för projektet
+3.Filer nedladdade med pakethanterare - tex bower_components (men vissa vill göra det ändå)
+4.Hemliga filer eller lösenord (credentials) 
+
+
+Vad är en applikationsserver och varför behövs den?
+
+svar: En applikationsserver är en program/verktyg som gör att applikationer kan köras och kommuniceras med. Man kan se det som ett hjärta i ett system som 
+kopplar ihop dem olika delarna. Den behövs lika mycket som vi människor behöver ett hjärta.  
+
+
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
+utvecklingsprojekt.
+
+svar: De parametrar man bör titta på är följande:
+
+1. Budgeten - Olika IDE har olika kostnader och allt beror på budgeten.
+2. Användarvänligt för större delar av utvecklingsgruppen 
+3. Populäritet ( Många användare inom det språket)
+4. Hur ofta det underhålls och uppdateras.
+5. Bra stöd för plugins för att förenkla användandet och integrationer tex git.
