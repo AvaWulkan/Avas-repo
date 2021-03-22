@@ -1,0 +1,16 @@
+1. Vilka filer bör finnas i .gitignore? 
+
+Man vill generellt inte ha kompilerad kod (dll, exe, com, iso, tar, zip jar etc)
+Loggfiler och databaser undviker många också samt operativa systemfiler   
+
+2. Vad är en applikationsserver och varför behövs den? 
+
+En applikationsserver är en server som hostar applikationer av olika slag. En applikationsserver
+innehåller även skript för att bygga applikationer till skillnad från en webbserver som bara är till för slutanvändaren.
+Dessutom kan en applikationsserver innehålla en webbserver. En webbserver hanterar bara http requests medans en 
+applikationsserver kan köra alla möjliga typer av filer.
+
+3. Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett utvecklingsprojekt?
+
+Det beror mycket på vad projektet kräver, vissa IDE har utökad funktionalitet inom vissa områden.
+Kostnad kan vara en faktor, hur populärt ett IDE är, tillgång till olika plugins samt hur ofta det underhålls och uppdateras.
