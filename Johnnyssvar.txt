@@ -14,3 +14,4 @@ applikationsserver kan köra alla möjliga typer av filer.
 
 Det beror mycket på vad projektet kräver, vissa IDE har utökad funktionalitet inom vissa områden.
 Kostnad kan vara en faktor, hur populärt ett IDE är, tillgång till olika plugins samt hur ofta det underhålls och uppdateras.
+Vilket programmeringsspråk som används är självklart en stor faktor också.
